@@ -1,0 +1,10 @@
+Pull from gitlab 
+cd /c/users/ronan/downloads
+git clone git@github.com:rtimoney/python-revision-book-chapter-5.git
+
+
+Push to gitlab
+cd /c/users/ronan/downloads/python-revision-book-chapter-5
+git add .
+git commit -m "Updated commit 13th Feb 2023 - Ronan"
+git push 
